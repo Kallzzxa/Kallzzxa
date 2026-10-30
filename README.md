@@ -27,12 +27,9 @@
 
 ---
 
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 
-[![Kallzzxa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kallzzxa&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kallzzxa&layout=compact&theme=dark&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kallzzxa&theme=dark&hide_border=true)
 ---
 
 <p align="center">
