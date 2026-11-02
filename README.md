@@ -21,9 +21,9 @@
 
 | Domain | Tech Stack / Languages |
 | :--- | :--- |
-| **Backend & Systems** | Go, Python, Java, C++ |
+| **Backend & Systems** | Go, Python, Java, C++(tipis tipis) |
 | **Mobile & Web** | Kotlin, JavaScript, PHP |
-| **Scripting & Game Logic** | Pawn (Pawno) |
+| **Scripting & Game Logic** | Pawn (Pawno), Lua |
 
 ---
 
